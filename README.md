@@ -2,7 +2,10 @@
 #### Hi, 👋  I'm <a href="https://raray-chuan.github.io/xichuan_note" target="_blank">Xichuan </a>,If my note can help you in your work, please give me a following and a star!🍗
 -->
 <div align="center">
-    <a href="https://raray-chuan.github.io/"><img src="./img/cat.svg" alt="xichuan_note" /></a>
+  <span>&emsp;&emsp;</span>
+    <a href="https://raray-chuan.github.io/xichuan_note"><img height='50px' src="./img/github-ioc.gif" alt="xichuan_note" /></a>
+    <a href="https://raray-chuan.github.io/xichuan_note"><img height='50px' src="./img/cat.svg" alt="xichuan_note" /></a>
+  <span>&emsp;&emsp;</span>
 </div>
 
 <div align="center" >
@@ -52,8 +55,8 @@
 <div align="center">
 <span>&emsp;&emsp;</span>
     <img height="150px"  alt="Xichuan's Stats" src="https://github-readme-stats.vercel.app/api?username=raray-chuan" /><span>&emsp;&emsp;</span>
-    <!--<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raray-chuan&layout=compact&langs_count=8" />-->
     <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=raray-chuan" />
+    <!--<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raray-chuan&layout=compact&langs_count=8" />-->
 <span>&emsp;&emsp;</span>
 </div>
 
