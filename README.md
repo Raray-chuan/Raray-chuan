@@ -9,7 +9,7 @@
 </div>
 
 <div align="center" >
-    <img  width="200px" order-radius="100px" src="img/head/error02.gif"/>
+    <img  width="420px" order-radius="100px" src="img/head/error02.gif"/>
 </div>
 <br>
 
