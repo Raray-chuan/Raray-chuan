@@ -8,7 +8,7 @@
 <div align="center" >
     <img  order-radius="100px" src="img/head/error01.gif"/>
 </div>
-
+<br>
 
 ## About Me🙋‍♂️
 - Name: 兮川
@@ -39,7 +39,7 @@
       </td>
     </tr>
 </table>    
-
+<br>
 
 ## Statistics🌈
 <p align="center">
@@ -59,6 +59,7 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/raray-chuan/raray-chuan/main/img/github-contribution-grid-snake.svg" >
 </div>
+<br>
 
 ## Love Github⛱️
 <div align="center"><img width="50%" src="./img/github-pic.gif"/></div>
