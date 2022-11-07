@@ -5,8 +5,15 @@
     <a href="https://raray-chuan.github.io/"><img src="./img/cat.svg" alt="xichuan_note" /></a>
 </div>
 
+<div align="center" >
+    <img order-radius="100px" src="error.gif"/>
+</div>
 
-#### 📈Statistics
+
+#### About me🙋‍♂️
+
+
+#### 📈Statistics🌈
 <p align="center">
     <a title="github" target="_blank" href="https://github.com/raray-chuan"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Draray-chuan&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
      <img src="https://visitor-badge.glitch.me/badge?page_id=raray-chuan" /> 
@@ -25,6 +32,8 @@
     <img src="https://raw.githubusercontent.com/raray-chuan/raray-chuan/main/img/github-contribution-grid-snake.svg" >
 </div>
 
+#### Love Github⛱️
+<div align="center"><img width="50%" src="./img/github-pic.gif"/></div>
 
 
 
