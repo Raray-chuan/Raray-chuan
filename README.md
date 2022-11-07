@@ -31,13 +31,13 @@
       <td align="center" style="width: 200px;">
         <a href="https://github.com/Raray-chuan">
           <img src="img/qrcode-for-xichuan.jpg" style="width: 130px;"><br>
-          <sub>公众平台</sub>
+          <sub>Subscription Account</sub>
         </a><br>
       </td>
       <td align="center" style="width: 200px;">
         <a href="https://github.com/Raray-chuan">
           <img src="./img/qrcode-for-it_fushang.jpg" style="width: 130px;"><br>
-          <sub>个人微信</sub>
+          <sub>Wechat</sub>
         </a><br>
       </td>
     </tr>
