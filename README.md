@@ -23,17 +23,17 @@
     - [Raray-chuan/MySpringMVC](https://github.com/Raray-chuan/MySpringMVC)
     - [Raray-chuan/HikariCP-4.0.3](https://github.com/Raray-chuan/HikariCP-4.0.3)
 - My Wechat
-<table>
+<table  left="200px">
     <tr>
       <td align="center" style="width: 200px;">
         <a href="https://github.com/Raray-chuan">
-          <img src="img/qrcode-for-xichuan.jpg" style="width: 180px;"><br>
+          <img src="img/qrcode-for-xichuan.jpg" style="width: 130px;"><br>
           <sub>公众平台</sub>
         </a><br>
       </td>
       <td align="center" style="width: 200px;">
         <a href="https://github.com/Raray-chuan">
-          <img src="./img/qrcode-for-it_fushang.jpg" style="width: 180px;"><br>
+          <img src="./img/qrcode-for-it_fushang.jpg" style="width: 130px;"><br>
           <sub>个人微信</sub>
         </a><br>
       </td>
