@@ -2,14 +2,14 @@
 #### Hi, 👋  I'm <a href="https://raray-chuan.github.io/xichuan_note" target="_blank">Xichuan </a>,If my note can help you in your work, please give me a following and a star!🍗
 -->
 <div >
-  <span>&emsp;&emsp;</span>
     <a href="https://raray-chuan.github.io/xichuan_note"><img height='50px' src="./img/github-ioc.gif" alt="xichuan_note" /></a>
-    <a align="center" href="https://raray-chuan.github.io/xichuan_note"><img height='50px' src="./img/cat.svg" alt="xichuan_note" /></a>
+    &emsp;&emsp;
+    <a href="https://raray-chuan.github.io/xichuan_note"><img height='50px' src="./img/cat.svg" alt="xichuan_note" /></a>
   <span>&emsp;&emsp;</span>
 </div>
 
 <div align="center" >
-    <img  width="420px" order-radius="100px" src="img/head/error01.gif"/>
+    <img  width="200px" order-radius="100px" src="img/head/error02.gif"/>
 </div>
 <br>
 
