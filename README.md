@@ -67,6 +67,7 @@
 
 ## Love Github⛱️
 <div align="center"><img width="50%" src="./img/github-pic.gif"/></div>
+<div align="center"><img src="./img/bottom.png" /></div>
 
 
 
