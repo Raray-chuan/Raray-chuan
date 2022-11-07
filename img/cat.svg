@@ -21,8 +21,8 @@
             keyTimes='0;0.66666666666667;0.83333333333333;1' />
     </path>
     <text font-family='"Jost", monospace' fill='#15BBFF' font-size='21'
-        dominant-baseline='middle'
-        x='50%' text-anchor='middle'>
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'>
         <textPath xlink:href='#path0'>
             Schrodinger&#039;s cat. 
         </textPath>
@@ -34,8 +34,8 @@
             keyTimes='0;0.66666666666667;0.83333333333333;1' />
     </path>
     <text font-family='"Jost", monospace' fill='#15BBFF' font-size='21'
-        dominant-baseline='middle'
-        x='50%' text-anchor='middle'>
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'>
         <textPath xlink:href='#path1'>
             You can&#039;t tell if it&#039;s real until you verify it.
         </textPath>
