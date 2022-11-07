@@ -6,11 +6,39 @@
 </div>
 
 <div align="center" >
-    <img  order-radius="100px" src="img/head/tv.gif"/>
+    <img  order-radius="100px" src="img/head/error01.gif"/>
 </div>
 
 
 ## About Me🙋‍♂️
+- Name: 兮川
+- Nickname：Xichuan
+- From: Nanjing City, JiangSu Province in China
+- Favorite Programming Language
+    - Java
+    - Python
+    - Scala
+- Project
+    - [Raray-chuan/xichuan_note](https://github.com/Raray-chuan/xichuan_note)
+    - [Raray-chuan/MySpringMVC](https://github.com/Raray-chuan/MySpringMVC)
+    - [Raray-chuan/HikariCP-4.0.3](https://github.com/Raray-chuan/HikariCP-4.0.3)
+- My Wechat
+<table>
+    <tr>
+      <td align="center" style="width: 200px;">
+        <a href="https://github.com/Raray-chuan">
+          <img src="img/qrcode-for-xichuan.jpg" style="width: 180px;"><br>
+          <sub>公众平台</sub>
+        </a><br>
+      </td>
+      <td align="center" style="width: 200px;">
+        <a href="https://github.com/Raray-chuan">
+          <img src="./img/qrcode-for-it_fushang.jpg" style="width: 180px;"><br>
+          <sub>个人微信</sub>
+        </a><br>
+      </td>
+    </tr>
+</table>    
 
 
 ## Statistics🌈
