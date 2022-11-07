@@ -1,7 +1,8 @@
 #### Hi, 👋  I'm <a href="https://raray-chuan.github.io/" target="_blank">Xichuan </a>,If my note can help you in your work, please give me a following and a star!🍗
 
-<a href="https://raray-chuan.github.io/"><img src="./img/cat.svg" alt="xichuan_note" /></a>
-
+<div align="center">
+    <a href="https://raray-chuan.github.io/"><img src="./img/cat.svg" alt="xichuan_note" /></a>
+</div>
 
 
 #### 📈Statistics
