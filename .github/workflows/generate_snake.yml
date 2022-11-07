@@ -1,10 +1,10 @@
  GitHub Action for generating a contribution graph with a snake eating your contributions.
 
-name: Generate Snake
+name: generate_snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "* * * * *"
   workflow_dispatch:
 
 jobs:
