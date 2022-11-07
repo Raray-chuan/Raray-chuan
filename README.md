@@ -6,7 +6,7 @@
 </div>
 
 <div align="center" >
-    <img order-radius="100px" src="error.gif"/>
+    <img order-radius="100px" src="./img/error.gif"/>
 </div>
 
 
