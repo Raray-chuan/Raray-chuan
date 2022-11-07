@@ -6,7 +6,7 @@
 </div>
 
 <div align="center" >
-    <img  order-radius="100px" src="img/head/error01.gif"/>
+    <img  width="420px" order-radius="100px" src="img/head/error01.gif"/>
 </div>
 <br>
 
@@ -23,7 +23,7 @@
     - [Raray-chuan/MySpringMVC](https://github.com/Raray-chuan/MySpringMVC)
     - [Raray-chuan/HikariCP-4.0.3](https://github.com/Raray-chuan/HikariCP-4.0.3)
 - My Wechat
-<table  left="200px">
+<table  style="right: 200px">
     <tr>
       <td align="center" style="width: 200px;">
         <a href="https://github.com/Raray-chuan">
