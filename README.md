@@ -83,6 +83,12 @@
 </div>
 <br>
 
+
+## TODO🕥📡
+- projrct01: simple quality manage for bigdata environment 
+<br>
+
+
 ## Love GitHub⛅⛱️
 <div align="center"><img width="50%" src="./img/github-pic.gif"/></div>
 <div align="center"><img src="./img/bottom.png" /></div>
