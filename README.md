@@ -20,19 +20,20 @@
   <img height="125px"  src="https://github-readme-stats.vercel.app/api/pin/?username=Raray-chuan&repo=xichuan_note&theme=panda&hide_border=false" />
 </a>
 </div>
+<br>
+
 
 ## My Project🖥️🖱️
 <div align="">
 <a href="https://github.com/Raray-chuan/MySpringMVC">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Raray-chuan&repo=MySpringMVC&theme=calm&hide_border=false" />
+  <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=Raray-chuan&repo=MySpringMVC&theme=flag-india&hide_border=false" />
 </a>
 <a href="https://github.com/Raray-chuan/springboot-kerberos-hikari-impala">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Raray-chuan&repo=springboot-kerberos-hikari-impala&theme=aura_dark&hide_border=false" />
-</a>
-<a href="https://github.com/Raray-chuan/HikariCP-4.0.3">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Raray-chuan&repo=HikariCP-4.0.3&theme=vue-dark&hide_border=false" />
+  <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=Raray-chuan&repo=springboot-kerberos-hikari-impala&theme=flag-india&hide_border=false" />
 </a>
 </div>
+<br>
+
 
 ## About Me✒️🙋‍♂️️
 - Name: 兮川
