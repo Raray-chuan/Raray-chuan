@@ -13,7 +13,28 @@
 </div>
 <br>
 
-## About Me🙋‍♂️
+
+## My Note📺🍻
+<div align="">
+<a href="https://github.com/Raray-chuan/xichuan_note">
+  <img height="125px"  src="https://github-readme-stats.vercel.app/api/pin/?username=Raray-chuan&repo=xichuan_note&theme=panda&hide_border=false" />
+</a>
+</div>
+
+## My Project🖥️🖱️
+<div align="">
+<a href="https://github.com/Raray-chuan/MySpringMVC">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Raray-chuan&repo=MySpringMVC&theme=calm&hide_border=false" />
+</a>
+<a href="https://github.com/Raray-chuan/springboot-kerberos-hikari-impala">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Raray-chuan&repo=springboot-kerberos-hikari-impala&theme=aura_dark&hide_border=false" />
+</a>
+<a href="https://github.com/Raray-chuan/HikariCP-4.0.3">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Raray-chuan&repo=HikariCP-4.0.3&theme=vue-dark&hide_border=false" />
+</a>
+</div>
+
+## About Me✒️🙋‍♂️️
 - Name: 兮川
 - Nickname：Xichuan
 - From: Nanjing City, JiangSu Province in China
@@ -21,10 +42,6 @@
     - Java
     - Python
     - Scala
-- Project
-    - [Raray-chuan/xichuan_note](https://github.com/Raray-chuan/xichuan_note)
-    - [Raray-chuan/MySpringMVC](https://github.com/Raray-chuan/MySpringMVC)
-    - [Raray-chuan/HikariCP-4.0.3](https://github.com/Raray-chuan/HikariCP-4.0.3)
 - My Wechat
 <table  style="right: 200px">
     <tr>
@@ -44,7 +61,7 @@
 </table>    
 <br>
 
-## Statistics🍓
+## Statistics🍉🍓
 <p align="center">
     <a title="github" target="_blank" href="https://github.com/raray-chuan"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Draray-chuan&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>&emsp;
     <img src="https://visitor-badge.glitch.me/badge?page_id=raray-chuan" />&emsp; 
@@ -65,7 +82,7 @@
 </div>
 <br>
 
-## Love GitHub⛱️
+## Love GitHub⛅⛱️
 <div align="center"><img width="50%" src="./img/github-pic.gif"/></div>
 <div align="center"><img src="./img/bottom.png" /></div>
 
@@ -85,4 +102,5 @@
 4.github-readme-activity-graph(GitHub 活动统计图):https://github.com/Ashutosh00710/github-readme-activity-graph
 5.snk(贪吃蛇):https://github.com/Platane/snk
 6.dynamic-badge(动态图标):https://shields.io/#dynamic-badge
+7.github-readme-stats(项目展示):https://github.com/anuraghazra/github-readme-stats
 -->
