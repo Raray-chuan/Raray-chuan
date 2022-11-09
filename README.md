@@ -2,14 +2,17 @@
 #### Hi, 👋  I'm <a href="https://raray-chuan.github.io/xichuan_note" target="_blank">Xichuan </a>,If my note can help you in your work, please give me a following and a star!🍗
 -->
 <div >
-    <a href="https://raray-chuan.github.io/xichuan_note"><img height='50px' src="img/github-ico.gif" alt="xichuan_note" /></a>
+    <!--<a href="https://raray-chuan.github.io/xichuan_note"><img height='50px' src="img/github-ico.gif" alt="xichuan_note" /></a>-->
+    <!--<a href="https://raray-chuan.github.io/xichuan_note"><img height='50px' src="img/text.svg" alt="xichuan_note" /></a>-->
+    <a href="https://raray-chuan.github.io/xichuan_note"><img height='50px' src="https://raw.githubusercontent.com/Raray-chuan/xichuan_blog_pic/main/img/inner/github-ico.gif" alt="xichuan_note" /></a>
     &emsp;&emsp;
-    <a href="https://raray-chuan.github.io/xichuan_note"><img height='50px' src="img/text.svg" alt="xichuan_note" /></a>
+    <a href="https://raray-chuan.github.io/xichuan_note"><img height='50px' src="https://raw.githubusercontent.com/Raray-chuan/xichuan_blog_pic/main/img/inner/text.svg" alt="xichuan_note" /></a>
   <span>&emsp;&emsp;</span>
 </div>
 
 <div align="center" >
-    <img  width="500px" order-radius="100px" src="img/head/cat/cat04.gif"/>
+    <!--<img  width="500px" order-radius="100px" src="img/head/cat/cat04.gif"/>-->
+    <img  width="500px" order-radius="100px" src="https://raw.githubusercontent.com/Raray-chuan/xichuan_blog_pic/main/img/inner/head/cat/cat04.gif"/>
 </div>
 <br>
 
@@ -48,12 +51,14 @@
     <tr>
       <td align="center" style="width: 200px;">
         <a href="https://github.com/Raray-chuan">
-          <img src="img/qrcode-for-xichuan.jpg" style="width: 130px;"><br>
+          <!--<img src="img/qrcode-for-xichuan.jpg" style="width: 130px;"><br>-->
+          <img src="https://raw.githubusercontent.com/Raray-chuan/xichuan_blog_pic/main/img/inner/qrcode-for-xichuan.jpg" style="width: 130px;"><br>
           <sub>Subscription Account</sub>
         </a><br>
       </td>
       <td align="center" style="width: 200px;">
         <a href="https://github.com/Raray-chuan">
+          <!--<img src="https://raw.githubusercontent.com/Raray-chuan/xichuan_blog_pic/main/img/inner/qrcode-for-it_fushang.jpg" style="width: 130px;"><br>-->
           <img src="./img/qrcode-for-it_fushang.jpg" style="width: 130px;"><br>
           <sub>Wechat</sub>
         </a><br>
@@ -90,10 +95,10 @@
 
 
 ## Love GitHub⛅⛱️
-<div align="center"><img width="50%" src="./img/github-pic.gif"/></div>
-<div align="center"><img src="./img/bottom.png" /></div>
-
-
+<!--<div align="center"><img width="50%" src="./img/github-pic.gif"/></div>-->
+<!--<div align="center"><img src="./img/bottom.png" /></div>-->
+<div align="center"><img width="50%" src="https://raw.githubusercontent.com/Raray-chuan/xichuan_blog_pic/main/img/inner/github-pic.gif"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Raray-chuan/xichuan_blog_pic/main/img/inner/bottom.png" /></div>
 
 
 
