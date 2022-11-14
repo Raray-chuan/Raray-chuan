@@ -28,8 +28,8 @@
 
 ## My Project🖥️🖱️
 <div align="">
-<a href="https://github.com/Raray-chuan/MySpringMVC">
-  <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=Raray-chuan&repo=MySpringMVC&theme=flag-india&hide_border=false" />
+<a href="https://github.com/Raray-chuan/mini-Springmvc">
+  <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=Raray-chuan&repo=mini-Springmvc&theme=flag-india&hide_border=false" />
 </a>
 <a href="https://github.com/Raray-chuan/springboot-kerberos-hikari-impala">
   <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=Raray-chuan&repo=springboot-kerberos-hikari-impala&theme=flag-india&hide_border=false" />
@@ -37,6 +37,15 @@
 </div>
 <br>
 
+<div align="">
+<a href="https://github.com/Raray-chuan/quality-manage">
+  <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=Raray-chuan&repo=quality-manage&theme=flag-india&hide_border=false" />
+</a>
+<a href="https://github.com/Raray-chuan/HikariCP-4.0.3">
+  <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=Raray-chuan&repo=HikariCP-4.0.3&theme=flag-india&hide_border=false" />
+</a>
+</div>
+<br>
 
 ## About Me✒️🙋‍♂️️
 - Name: 兮川
@@ -90,7 +99,7 @@
 
 
 ## TODO🕥📡
-- projrct01: simple quality manage for bigdata environment 
+- xichuan_note: add spring and hadoop notes
 <br>
 
 
