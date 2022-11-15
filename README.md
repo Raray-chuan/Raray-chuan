@@ -28,8 +28,8 @@
 
 ## My Project🖥️🖱️
 <div align="">
-<a href="https://github.com/Raray-chuan/mini-springmvc">
-  <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=Raray-chuan&repo=mini-springmvc&theme=flag-india&hide_border=false" />
+<a href="https://github.com/Raray-chuan/mini-spring">
+  <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=Raray-chuan&repo=mini-spring&theme=flag-india&hide_border=false" />
 </a>
 <a href="https://github.com/Raray-chuan/springboot-kerberos-hikari-impala">
   <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=Raray-chuan&repo=springboot-kerberos-hikari-impala&theme=flag-india&hide_border=false" />
