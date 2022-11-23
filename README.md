@@ -2,17 +2,15 @@
 #### Hi, 👋  I'm <a href="https://raray-chuan.github.io/xichuan_note" target="_blank">Xichuan </a>,If my note can help you in your work, please give me a following and a star!🍗
 -->
 <div >
-    <!--<a href="https://raray-chuan.github.io/xichuan_note"><img height='50px' src="img/github-ico.gif" alt="xichuan_note" /></a>-->
-    <!--<a href="https://raray-chuan.github.io/xichuan_note"><img height='50px' src="img/text.svg" alt="xichuan_note" /></a>-->
-    <a href="https://raray-chuan.github.io/xichuan_note"><img height='50px' src="https://raw.githubusercontent.com/Raray-chuan/xichuan_blog_pic/main/img/inner/github-ico.gif" alt="xichuan_note" /></a>
+    <a href="https://raray-chuan.github.io/xichuan_note"><img height='50px' src="https://gcore.jsdelivr.net/gh/Raray-chuan/Raray-chuan@main/img/github-ico.gif" alt="xichuan_note" /></a>
     &emsp;&emsp;
-    <a href="https://raray-chuan.github.io/xichuan_note"><img height='50px' src="https://raw.githubusercontent.com/Raray-chuan/xichuan_blog_pic/main/img/inner/text.svg" alt="xichuan_note" /></a>
+    <a href="https://raray-chuan.github.io/xichuan_note"><img height='50px' src="https://gcore.jsdelivr.net/gh/Raray-chuan/Raray-chuan@main/img/text.svg" alt="xichuan_note" /></a>
   <span>&emsp;&emsp;</span>
 </div>
 
 <div align="center" >
     <!--<img  width="500px" order-radius="100px" src="img/head/cat/cat04.gif"/>-->
-    <img  width="500px" order-radius="100px" src="https://raw.githubusercontent.com/Raray-chuan/xichuan_blog_pic/main/img/inner/head/cat/cat04.gif"/>
+    <img  width="500px" order-radius="100px" src="https://gcore.jsdelivr.net/gh/Raray-chuan/Raray-chuan@main/img/head/cat/cat04.gif"/>
 </div>
 <br>
 
@@ -61,14 +59,13 @@
       <td align="center" style="width: 200px;">
         <a href="https://github.com/Raray-chuan">
           <!--<img src="img/qrcode-for-xichuan.jpg" style="width: 130px;"><br>-->
-          <img src="https://raw.githubusercontent.com/Raray-chuan/xichuan_blog_pic/main/img/inner/qrcode-for-xichuan.jpg" style="width: 130px;"><br>
+          <img src="https://gcore.jsdelivr.net/gh/Raray-chuan/Raray-chuan@main/img/qrcode-for-xichuan.jpg" style="width: 130px;"><br>
           <sub>Subscription Account</sub>
         </a><br>
       </td>
       <td align="center" style="width: 200px;">
         <a href="https://github.com/Raray-chuan">
-          <!--<img src="https://raw.githubusercontent.com/Raray-chuan/xichuan_blog_pic/main/img/inner/qrcode-for-it_fushang.jpg" style="width: 130px;"><br>-->
-          <img src="./img/qrcode-for-it_fushang.jpg" style="width: 130px;"><br>
+          <img src="https://gcore.jsdelivr.net/gh/Raray-chuan/Raray-chuan@main/img/qrcode-for-it_fushang.jpg" style="width: 130px;"><br>
           <sub>Wechat</sub>
         </a><br>
       </td>
@@ -80,8 +77,8 @@
 <p align="center">
     <a title="github" target="_blank" href="https://github.com/raray-chuan"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Draray-chuan&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>&emsp;
     <img src="https://visitor-badge.glitch.me/badge?page_id=raray-chuan" />&emsp; 
-    <a href="https://blog.csdn.net/zc_ad/"><img src="https://img.shields.io/badge/CSDN-博客-blue"/></a>&emsp;
-    <a href="https://space.bilibili.com/276402816/"><img src="https://img.shields.io/badge/bilibili-哔哩哔哩-ff69b4"/></a>&emsp;
+    <a href="https://blog.csdn.net/zc_ad/"><img src="https://gcore.jsdelivr.net/gh/Raray-chuan/Raray-chuan@main/img/ico/CSDN-博客-blue.svg"/></a>&emsp;
+    <a href="https://space.bilibili.com/276402816/"><img src="https://gcore.jsdelivr.net/gh/Raray-chuan/Raray-chuan@main/img/ico/bilibili-哔哩哔哩-ff69b4.svg"/></a>&emsp;
 </p>
 
 <div align="center">
@@ -93,7 +90,7 @@
 </div>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/raray-chuan/raray-chuan/main/img/github-contribution-grid-snake.svg" >
+    <img src="https://gcore.jsdelivr.net/gh/Raray-chuan/Raray-chuan@main/img/github-contribution-grid-snake.svg" >
 </div>
 <br>
 
@@ -104,10 +101,10 @@
 
 
 ## Love GitHub⛅⛱️
-<!--<div align="center"><img width="50%" src="./img/github-pic.gif"/></div>-->
+<!--<div align="center"><img width="50%" src="https://gcore.jsdelivr.net/gh/Raray-chuan/Raray-chuan@main/img/github-pic.gif"/></div>-->
 <!--<div align="center"><img src="./img/bottom.png" /></div>-->
-<div align="center"><img width="50%" src="https://raw.githubusercontent.com/Raray-chuan/xichuan_blog_pic/main/img/inner/github-pic.gif"/></div>
-<div align="center"><img src="https://raw.githubusercontent.com/Raray-chuan/xichuan_blog_pic/main/img/inner/bottom.png" /></div>
+<div align="center"><img width="50%" src="https://gcore.jsdelivr.net/gh/Raray-chuan/Raray-chuan@main/img/github-pic.gif"/></div>
+<div align="center"><img src="https://gcore.jsdelivr.net/gh/Raray-chuan/Raray-chuan@main/img/bottom.png" /></div>
 
 
 
