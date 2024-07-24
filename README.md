@@ -187,8 +187,6 @@
 <p align="center">
     <a title="github" target="_blank" href="https://github.com/raray-chuan"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Draray-chuan&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>&emsp;
     <img src="https://visitor-badge.glitch.me/badge?page_id=raray-chuan" />&emsp; 
-    <a href="https://blog.csdn.net/zc_ad/"><img src="https://gcore.jsdelivr.net/gh/Raray-chuan/Raray-chuan@main/img/ico/CSDN-博客-blue.svg"/></a>&emsp;
-    <a href="https://space.bilibili.com/276402816/"><img src="https://gcore.jsdelivr.net/gh/Raray-chuan/Raray-chuan@main/img/ico/bilibili-哔哩哔哩-ff69b4.svg"/></a>&emsp;
 </p>
 
 <div align="center">
