@@ -32,17 +32,21 @@
 <a href="https://github.com/Raray-chuan/springboot-kerberos-hikari-impala">
   <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=Raray-chuan&repo=springboot-kerberos-hikari-impala&theme=flag-india&hide_border=false" />
 </a>
-</div>
-<br>
-
-<div align="">
-<a href="https://github.com/Raray-chuan/quality-manage">
-  <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=Raray-chuan&repo=quality-manage&theme=flag-india&hide_border=false" />
-</a>
 <a href="https://github.com/Raray-chuan/HikariCP-4.0.3">
   <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=Raray-chuan&repo=HikariCP-4.0.3&theme=flag-india&hide_border=false" />
 </a>
 </div>
+<br>
+<!--
+<div align="">
+ <a href="https://github.com/Raray-chuan/springboot-kerberos-hikari-impala">
+  <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=Raray-chuan&repo=springboot-kerberos-hikari-impala&theme=flag-india&hide_border=false" />
+</a>
+<a href="https://github.com/Raray-chuan/quality-manage">
+  <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=Raray-chuan&repo=quality-manage&theme=flag-india&hide_border=false" />
+</a>
+</div>
+-->
 <br>
 
 <!--
@@ -192,7 +196,7 @@
 <div align="center">
 <span>&emsp;&emsp;</span>
     <img height="150px"  alt="Xichuan's Stats" src="https://github-readme-stats.vercel.app/api?username=raray-chuan" /><span>&emsp;&emsp;</span>
-    <!-<img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=raray-chuan" />-->
+    <!--<img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=raray-chuan" />-->
     <!--<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raray-chuan&layout=compact&langs_count=8" />-->
 <span>&emsp;&emsp;</span>
 </div>
