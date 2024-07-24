@@ -156,9 +156,9 @@
 -->
 
 ## About Me✒️🙋‍♂️️
-- Name: 兮川
+- Name: xx.x
 - Nickname：Xichuan
-- From: Nanjing City, JiangSu Province in China
+- From: Nanjing
 - Favorite Programming Language
     - Java
     - Python
@@ -192,19 +192,21 @@
 <div align="center">
 <span>&emsp;&emsp;</span>
     <img height="150px"  alt="Xichuan's Stats" src="https://github-readme-stats.vercel.app/api?username=raray-chuan" /><span>&emsp;&emsp;</span>
-    <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=raray-chuan" />
+    <!-<img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=raray-chuan" />-->
     <!--<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raray-chuan&layout=compact&langs_count=8" />-->
 <span>&emsp;&emsp;</span>
 </div>
 
+<!--
 <div align="center">
     <img src="https://gcore.jsdelivr.net/gh/Raray-chuan/Raray-chuan@main/img/github-contribution-grid-snake.svg" >
 </div>
+-->
 <br>
 
 
 ## TODO🕥📡
-- xichuan_note: add spring and hadoop notes
+- 2024年 研究量化,有研究的朋友加微信一起学习交流
 <br>
 
 
